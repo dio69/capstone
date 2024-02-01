@@ -1,7 +1,8 @@
 # hawk
 A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies. 
 
-![Alt text] (https://github.com/dio69/capstone/blob/main/hawk/src/logo.jpg)
+![logo](https://github.com/dio69/capstone/assets/57855207/936651d9-99f2-4650-86e1-b56b0441242b)
+
 <hr>
 <br>
 
