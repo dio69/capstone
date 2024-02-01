@@ -10,9 +10,9 @@ A Solidity static analyzer to identify contract vulnerabilities and gas efficien
 - [Installation](#installation)
 - [Usage](#usage)
 - [Identified Issues](https://github.com/dio69/capstone/hawk/tree/main/docs)
-  - [⚡Optimizations](https://github.com/dio69/hawk/blob/main/docs/identified-optimizations.md)
-  - [🪲Vulnerabilities](https://github.com/dio69/hawk/blob/main/docs/identified-vulnerabilities.md)
-  - [👍Quality Assurance](https://github.com/dio69/hawk/blob/main/docs/identified-quality-assurance.md)
+  - [⚡Optimizations](https://github.com/dio69/capstone/blob/main/hawk/src/docs/identified-optimizations.md)
+  - [🪲Vulnerabilities](https://github.com/dio69/capstone/blob/main/hawk/src/docs/identified-vulnerabilities.md)
+  - [👍Quality Assurance](https://github.com/dio69/capstone/blob/main/hawk/src/docs/identified-quality-assurance.md)
 - [Example Reports](https://github.com/dio69/capstone/blob/main/hawk/example_report.md)
 - [Contributing](#contributing)
 
