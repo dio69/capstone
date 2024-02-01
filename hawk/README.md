@@ -1,7 +1,7 @@
 # hawk
 A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies. 
 
-
+![Alt text] https://www.cleanpng.com/png-hawk-logo-symbol-bird-eagle-black-hawk-logo-www-im-7196632/
 <hr>
 <br>
 
